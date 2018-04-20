@@ -1,0 +1,6 @@
+Day 1: $10.0
+Day 2: $20.0
+Day 3: $30.0
+Day 4: $40.0
+Day 5: $50.0
+Accumulation: $200.0
